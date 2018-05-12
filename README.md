@@ -17,3 +17,6 @@ After generating all the candidate words, select the word w which has the maximu
 
 Kaggle Link:
 https://www.kaggle.com/t/224c05a5c9924eaaaa5c826e76e65c44 
+
+Score:0.22946
+Rank:8 out of 37 teams
